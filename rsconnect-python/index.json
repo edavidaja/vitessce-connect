@@ -1,0 +1,11 @@
+{
+    "https://colorado.rstudio.com/rsc": {
+        "server_url": "https://colorado.rstudio.com/rsc",
+        "filename": "/Users/edavidaja/Documents/rstudiopbc/scratch/vitessce-ex/index.html",
+        "app_url": "https://colorado.rstudio.com/rsc/connect/#/apps/810b6708-dd2d-48c8-985e-92766828de93",
+        "app_id": "810b6708-dd2d-48c8-985e-92766828de93",
+        "app_guid": "810b6708-dd2d-48c8-985e-92766828de93",
+        "title": "vitessce",
+        "app_mode": "static"
+    }
+}

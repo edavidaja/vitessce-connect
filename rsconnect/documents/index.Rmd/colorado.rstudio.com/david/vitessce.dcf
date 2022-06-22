@@ -1,0 +1,15 @@
+name: vitessce
+title: vitessce
+username: david
+account: david
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 11422
+bundleId: 56762
+url: https://colorado.rstudio.com/rsc/vitessce/
+when: 1653334507.45118
+lastSyncTime: 1653334507.45119
+quarto_version: 0.9.414
+quarto_engines: knitr
+asMultiple: FALSE
+asStatic: FALSE
